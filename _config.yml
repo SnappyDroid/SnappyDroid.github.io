@@ -105,11 +105,14 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/Hostgator-gator.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Novembro 2015"
+    description: "Nascimento do projeto SnappyDroid "
+  - image: "/img/timeline/Hostgator-gator.png"
+    date: "Dezembro 2015 - Janeiro 2016"
+    description: "Primeiros teste com o Arduino Mega"
+  - image: "/img/timeline/Hostgator-gator.png"
+    date: "Janeiro 2016 "
+    description: "Projeto é liberado no GitHub"
 
 # First image of the Timeline
 
