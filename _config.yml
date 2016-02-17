@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
+author: "Sinesio Bittencourt - contato@sinesio.com.br"
+title: "{ SnappyDroid }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "SnappyDroid, Snappy, Droid, HostGator"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
