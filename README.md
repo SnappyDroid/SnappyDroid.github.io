@@ -62,14 +62,6 @@ Then, you can build and serve your website by simply running:
 ./scripts/serve-production
 ````
 
-## Wiki
-
-Don't forget to list your { Personal } blog in the [Blogs using { Personal }](https://github.com/PanosSakkos/personal-jekyll-theme/wiki/Blogs-using-%7B-Personal-%7D) wiki page in order to drive some traffic to your website :wink:
-
-## Integrating bug fixes and features into your old fork
-
-Have you published your own website by forking { Personal } and now you want to get the latest bug fixes and features from this repo into your website?
-Then check [this](https://github.com/PanosSakkos/personal-jekyll-theme/wiki/Upgrading-your-%7B-Personal-%7D-website-with-our-latest-bug-fixes-and-features) out.
 
 ## OSS used in { Personal }
 
