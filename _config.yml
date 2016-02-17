@@ -110,7 +110,7 @@ events:
   - image: "/img/timeline/Hostgator-gator.png"
     date: "Dezembro 2015 - Janeiro 2016"
     description: "Primeiros teste com o Arduino Mega"
-  - image: "/img/timeline/Hostgator-gator.png"
+  - image: "/img/background_head.jpg"
     date: "Janeiro 2016 "
     description: "Projeto é liberado no GitHub"
 
