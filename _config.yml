@@ -16,7 +16,7 @@ baseurl: https://snappydroid.github.io/
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -28,10 +28,10 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: "Sinesio Bittencourt - contato@sinesio.com.br"
+lang: "pt-br"
+author: "Sinesio Bittencourt - "
 title: "{ SnappyDroid }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "SnappyDroid projeto OpenSouce feicom com Arduino"
 keywords: "SnappyDroid, Snappy, Droid, HostGator, HostGator Brasil"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -40,9 +40,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/log.png"
 
-background-img: "../img/backgroud_head.jpg"
+background-img: "../img/background_head.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "{ Faça um Fork e ajude neste projeto Open Souce.}"
-  - text: "{ SnappyDroid é um projeto feito com Arduino e totalmente #LIVRE.}"
+  - text: "{ Faça um Fork e ajude neste projeto Open Souce. }"
+  - text: "{ SnappyDroid é um projeto feito com Arduino e totalmente #LIVRE. }"
 
 #me-img: "/img/jetpacktocat.png"
 
