@@ -107,7 +107,7 @@ events:
   - image: "/img/timeline/Hostgator-gator.png"
     date: "Novembro 2015"
     description: "Nascimento do projeto SnappyDroid "
-  - image: "/img/timeline/Hostgator-gator.png"
+  - image: "https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xta1/t51.2885-15/e15/10616902_178830975794576_834552696_n.jpg?ig_cache_key=MTExNjkwMzkzNzI2Njc2MzkwOA%3D%3D.2"
     date: "Dezembro 2015 - Janeiro 2016"
     description: "Primeiros teste com o Arduino Mega"
   - image: "/img/background_head.jpg"
