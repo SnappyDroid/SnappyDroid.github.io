@@ -1,6 +1,24 @@
+
+# [Jekyll](http://jekyllrb.com/)
+
+[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+[![Build Status](https://travis-ci.org/jekyll/jekyll.svg?branch=master)][travis]
+[![Test Coverage](https://codeclimate.com/github/jekyll/jekyll/badges/coverage.svg)][coverage]
+[![Code Climate](https://codeclimate.com/github/jekyll/jekyll/badges/gpa.svg)][codeclimate]
+[![Dependency Status](https://gemnasium.com/jekyll/jekyll.svg)][gemnasium]
+[![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
 ![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
 ![Build Status](https://travis-ci.org/sinesiobittencourt/SnappyDroid.github.io.svg?branch=master)
 [![Join the chat at https://gitter.im/PanosSakkos/personal-jekyll-theme](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PanosSakkos/personal-jekyll-theme?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[ruby-gems]: https://rubygems.org/gems/jekyll
+[gemnasium]: https://gemnasium.com/jekyll/jekyll
+[codeclimate]: https://codeclimate.com/github/jekyll/jekyll
+[coverage]: https://codeclimate.com/github/jekyll/jekyll/coverage
+[hakiri]: https://hakiri.io/github/jekyll/jekyll/master
+[travis]: https://travis-ci.org/jekyll/jekyll
+
+Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind [GitHub Pages](http://pages.github.com), which you can use to host sites right from your GitHub repositories.
 
 # { Personal } Jekyll Theme
 
