@@ -31,7 +31,7 @@ force-https: True
 lang: "pt-br"
 author: "Sinesio Bittencourt - "
 title: "{ SnappyDroid }"
-description: "SnappyDroid projeto OpenSouce feicom com Arduino"
+description: "SnappyDroid é um projeto OpenSouce feitom com Arduino"
 keywords: "SnappyDroid, Snappy, Droid, HostGator, HostGator Brasil"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -95,7 +95,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "SnappyDroid"
 
 syntax-highlight: True
 
@@ -130,13 +130,13 @@ email: "contato@snappydroid.com.br"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/SnappyDroid"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/SnappyDroid"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/SnappyDroid/"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://blockchain.info/address/"
   - title: "rss"
     url: "/feed.xml"
 
