@@ -4,7 +4,7 @@
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 [![Build Status](https://travis-ci.org/jekyll/jekyll.svg?branch=master)][travis]
 [![Test Coverage](https://codeclimate.com/github/jekyll/jekyll/badges/coverage.svg)][coverage]
-[![Code Climate](https://codeclimate.com/github/jekyll/jekyll/badges/gpa.svg)][codeclimate]
+[![Code Climate](https://codeclimate.com/github/SnappyDroid/SnappyDroid.github.io)][codeclimate]
 [![Dependency Status](https://gemnasium.com/jekyll/jekyll.svg)][gemnasium]
 [![Security](https://hakiri.io/github/jekyll/jekyll/master.svg)][hakiri]
 ![Build Status](https://travis-ci.org/PanosSakkos/personal-jekyll-theme.svg?branch=master)
