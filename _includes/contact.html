@@ -11,7 +11,7 @@
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
             <p>
-            	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+            
             <script>
               function join_at_email(user, domain){
               return (user && domain)?(user + "@" + domain):"";
@@ -22,26 +22,7 @@
               + join_at_email( "{{ newemail[0] }}", "{{ newemail[1] }}" )
               + '</a>'
               );
-              var timerApp = angular.module('timerApp', []);
-
-timerApp.controller('CountdownController', ['$scope', '$timeout',  
-  function($scope, $timeout) {
-    $scope.count = 0;
-		$scope.decrement = function() {
-          $scope.count--;
-          if ($scope.count) {
-              	$timeout($scope.decrement, 1000);
-              	//1s == 1000ms  1m == 60000ms 1h == 3600000ms 
-              	//Font: http://extraconversion.com/pt/tempo/horas
               
-              } 
-          if ($scope.count <= 0) {	
-             		$scope.count = 0;	
-              }
-      };
-      $scope.decrement();
-  }
-]);
               </script>
             </p>
         {% else %}
@@ -53,9 +34,7 @@ timerApp.controller('CountdownController', ['$scope', '$timeout',
 
     </div>
   </div>
-  <div class="count" ng-app="timerApp" ng-controller="CountdownController">
-  <h1 ng-init="count=5" ng-show="count--">{{count}} AQUI </h1>
-</div>
+  
 </section>
 
 <!-- Contact End -->
