@@ -1,31 +1,11 @@
 
 <!-- Team Start -->
 
+
 <section id="{{ page.section-type }}" class="container content-section text-center">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
-
       {{ page.content | markdownify }}
-
-      <ul class="timeline">
-
-        {% for event in site.events %}
-          {% assign loopindex = forloop.index | modulo: 2 %}
-          {% capture class %}
-          {% if loopindex == 0 %}
-            timeline-inverted
-          {% endif %}
-          {% endcapture %}
-
-         
-        {% endfor %}
-
-        <li class="timeline-inverted">
-          <div class="timeline-image">
-            <img class="img-circle img-responsive" src="{{ site.timeline-img }}" alt="">
-          </div>
-        </li>
-      </ul>
     </div>
   </div>
 </section>
