@@ -17,19 +17,7 @@
           {% endif %}
           {% endcapture %}
 
-          <li class="{{ class }}">
-            <div class="timeline-image">
-              <img class="img-circle img-responsive" src="{{ event.image }}" alt="">
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>{{ event.date }}</h4>
-              </div>
-              <div class="timeline-body">
-                {{ event.description | markdownify }}
-              </div>
-            </div>
-          </li>
+         
         {% endfor %}
 
         <li class="timeline-inverted">
