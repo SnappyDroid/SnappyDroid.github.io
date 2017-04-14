@@ -11,6 +11,7 @@
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
             <p>
+            
             <script>
               function join_at_email(user, domain){
               return (user && domain)?(user + "@" + domain):"";
@@ -21,6 +22,7 @@
               + join_at_email( "{{ newemail[0] }}", "{{ newemail[1] }}" )
               + '</a>'
               );
+              
               </script>
             </p>
         {% else %}
@@ -32,6 +34,7 @@
 
     </div>
   </div>
+  
 </section>
 
 <!-- Contact End -->

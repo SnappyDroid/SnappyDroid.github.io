@@ -251,3 +251,88 @@
         padding: 0 100px 20px 20px;
     }
 }
+
+// POP UP
+
+.rso-modal .rso-bg {
+  background: rgba(0, 0, 0, 0) url("//sb.monetate.net/img/1/c/static/1624/427688/c052ea707e2b998bd241c154892735d23a2f53a6.png") no-repeat scroll 0 0;
+  height: 615px;
+  padding: 37px;
+  width: 670px;
+}
+.rso-modal .rso-bg .rso-page-content {
+  font-family: "Gotham SSm A","Gotham SSm B",Arial,sans-serif;
+  margin: 245px 15% 0;
+  width: 429px;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body {
+  text-align: center;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close,
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close:link,
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close:focus,
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close:hover,
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close:active,
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-close:visited {
+  color: #74889a;
+  font-size: 37px;
+  font-weight: bold;
+  float: right;
+  margin-top: -55px;
+  margin-right: -65px;
+  text-decoration: none;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body h2 {
+  color: #004A8D;
+  font-size: 48px;
+  font-weight: bold;
+  letter-spacing: -1.2px;
+  line-height: 42px;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-best-deal {
+  color: #E8925B;
+  display: inline-block;
+  font-size: 31px;
+  font-weight: normal;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-year-price {
+  color: #004a8d;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-year-price span {
+  font-size: 20px;
+  position: relative;
+  top: -5px;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .rso-btn {
+  background-color: #FFCD00;
+  border-radius: 15px;
+  border: 1px solid #835926;
+  box-shadow: 0px 3px #835926;
+  color: #333333;
+  cursor: pointer;
+  font-family: "Gotham SSm A","Gotham SSm B",Arial,sans-serif;
+  font-size: 57px;
+  font-weight: 800;
+  text-decoration: none;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-left: -20px;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body .btn-primary span {
+  font-size: 42px;
+}
+.rso-modal .rso-bg .rso-page-content .rso-page-body p {
+  color: #878787;
+  font-size: 11px;
+  line-height: 14px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+  text-align: justify;
+}

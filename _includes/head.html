@@ -16,17 +16,19 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
   <!-- Custom CSS -->
-  <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/css/grayscale.css" rel="stylesheet">
   {% if page.section-type == "index" %}
-  <link href="/css/timeline.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/css/timeline.css" rel="stylesheet">
   {% endif %}
 
   <!-- Custom Fonts -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <!--<link rel="stylesheet" href="{{site.baseurl}}/css/rrssb.css" />-->
-  <link rel="stylesheet" href="/css/rrssb.css" />
+  <!--<link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"> -->
+  <!--<link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"> -->
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="{{site.baseurl}}/css/rrssb.css" />
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -45,6 +47,7 @@
 
   {% include syntax-highlight.html %}
 
+  
 </head>
 
 <!-- HEAD End -->
