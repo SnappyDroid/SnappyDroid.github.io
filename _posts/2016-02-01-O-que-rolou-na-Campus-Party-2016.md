@@ -24,4 +24,4 @@ Numa análise geral, a Campus Party 2016 foi excelente, com ótimas palestras e 
 Vale lembrar que nós cobrimos o evento através do nosso perfil no Instagram e no Twitter, confere lá 😉 E aí, conta para gente: o que achou da Campus esse ano?
 
 * Escrito por Thayse Stein *
-https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/
+Visite [HostGator.com.br](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/).
