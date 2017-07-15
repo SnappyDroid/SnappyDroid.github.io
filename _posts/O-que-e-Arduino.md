@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: O que é Arduino: Tudo o que você precisa saber
 category: tech
-tags: [ 'tutorial''Host' ]
+tags: [ 'tutorial' ]
 ---
 
  
@@ -35,5 +35,5 @@ O robô que construí com Arduino contou com a colaboração da HostGator Brasil
 Após muitas adaptações e colaborações através do GitHub, vou participar do concurso de robôs na Campus Party 2017. Venha conhecer mais sobre o Projeto SnappyDroid no post do blog ou me procure no evento. 😉
 Última dica: Antes de iniciar um projeto com Arduino, pesquise as limitações de cada placa e se ela realmente vai atender todas as sua necessidades no decorrer do projeto. Um lugar muito bom para pesquisar e saber tudo o que é Arduino é o fórum oficial (em inglês).
 
-* Escrito por [Sinésio Bittencourt](https://sinesio.com.br) * </br >
-Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/)
+* Escrito por [Sinésio Bittencourt](https://sinesio.com.br)  </br >
+* Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/)
