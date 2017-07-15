@@ -1,20 +1,14 @@
 ---
 layout: post
 section-type: post
-title: Initial setup
+title: O que rolou na Campus Party 2016?
 category: tech
 tags: [ 'tutorial' ]
 ---
 
-
 O que rolou na Campus Party 2016?
 Escrito por Thayse Stein
-segunda-feira, 01 de fevereiro de 2016
-Share Button
 
-
-inShare
-2
 Campus Party 2016 - HostGator Brasil
 Mais uma edição da Campus Party chegou ao fim. O evento possibilita uma experiência tecnológica do mundo nas áreas de: Inovação, Criatividade, Ciência, Empreendedorismo e Entretenimento Digital. Tudo começou em 2008, com 3300 campuseiros (como são chamados os participantes) e contou com 8000 pessoas, em 2016.
 Este ano, algumas atrações se destacaram, como os talks “Make something you love”, sobre design, multimídia e criatividade, com Laura Lessa; “O mundo real de volta ao relacionamento online. Happn”,  sobre relacionamentos e plataformas virtuais, com Marie Cosnard; “Cartoon Network e o universo digital”, sobre marketing e redes sociais, com Artur Tilieri e o talk sobre empreendedorismo com Ricardo Fornari.
