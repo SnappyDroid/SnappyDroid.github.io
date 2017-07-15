@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: O que rolou na Campus Party 2016?
 category: tech
-tags: [ 'tutorial' ]
+tags: [ 'tutorial''Host' ]
 ---
 
 Campus Party 2016 - HostGator Brasil
