@@ -6,22 +6,66 @@ category: tech
 tags: [ 'tutorial' ]
 ---
 
-Campus Party 2016 - HostGator Brasil
-Mais uma edição da Campus Party chegou ao fim. O evento possibilita uma experiência tecnológica do mundo nas áreas de: Inovação, Criatividade, Ciência, Empreendedorismo e Entretenimento Digital. Tudo começou em 2008, com 3300 campuseiros (como são chamados os participantes) e contou com 8000 pessoas, em 2016.
-Este ano, algumas atrações se destacaram, como os talks “Make something you love”, sobre design, multimídia e criatividade, com Laura Lessa; “O mundo real de volta ao relacionamento online. Happn”,  sobre relacionamentos e plataformas virtuais, com Marie Cosnard; “Cartoon Network e o universo digital”, sobre marketing e redes sociais, com Artur Tilieri e o talk sobre empreendedorismo com Ricardo Fornari.
- 
-Veja também: Projeto SnappyDroid na Campus Party 2016
- 
-Ao todo, foram mais de 400 atrações, entre workshops, desafios e conferências. Sem contar todos os debates e a troca de experiência que é feita nos cinco dias de imersão neste universo, convivendo com os aficionados por tecnologia.
-Confira o depoimento do nosso colaborador, Sinesio Bittencourt, que vivenciou tudo isso de perto, viajando, acampando, participando das palestras e minicursos:
-“A maior e mais diversificada feira de tecnologia e internet do Brasil, foi realizada entre os dias 26 a 30 deste mês no Pavilhão de Exposições do Anhembi, São Paulo.
-SnappyDroid e Sinesio Bittencourt na Campus Party 2016 - HostGator Brasil
-Fonte: Campus Party Brasil / Flickr
-Os campuseiros esgotaram os ingressos rapidamente e acamparam em peso por lá. Os maiores destaques deste ano foram na área da robótica e das impressoras a laser e 3D, seguindo o tema do evento deste ano, Feel the Future.
-Nos 8 palcos da CPBR9, aconteceram palestras para as mais variadas áreas da tecnologia, dando destaque para Inovação e Ciências, com seus cursos de robótica e segurança de redes.
-Numa análise geral, a Campus Party 2016 foi excelente, com ótimas palestras e cursos, numa infraestrutura fantástica, tendo apenas 2 pontos negativos: o resfriamento ineficiente, pois o calor atrapalhou um bocado dentro do pavilhão e os altos preços dos alimentos e bebidas.”
- 
-Vale lembrar que nós cobrimos o evento através do nosso perfil no Instagram e no Twitter, confere lá 😉 E aí, conta para gente: o que achou da Campus esse ano?
+<div class="blogsection lshadow" id="post-3302">
 
-* Escrito por Thayse Stein * </br > 
-Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/)
+
+
+					<h2 class="entry-title"><a href="https://blog.hostgator.com.br/o-que-e-arduino/" title="O que é Arduino: Tudo o que você precisa saber">O que é Arduino: Tudo o que você precisa saber</a></h2>
+
+					<p class="writtenby">Escrito por Sinésio Bittencourt</p>
+
+					<p class="dateof">terça-feira, 31 de janeiro de 2017</p>
+
+
+
+					<div class="entry-content">
+
+						<div style="padding-bottom:-20px; padding-top:10px;" class="hupso-share-buttons"><!-- Hupso Share Buttons - http://www.hupso.com/share/ --><a class="hupso_counters" href="http://www.hupso.com/share/"><img src="https://static.hupso.com/share/buttons/lang/pt/share-small.png" style="border: 0px; padding-top: 2px; float: left; margin: 0px; background-color: transparent; outline: none; box-shadow: none;" alt="Share Button"></a><script type="text/javascript">var hupso_services_c=new Array("twitter","facebook_like","google","linkedin");var hupso_twitter_via = "hostgatorbrasil";var hupso_counters_lang = "pt_BR";var hupso_image_folder_url = "";var hupso_twitter_via="hostgatorbrasil";var hupso_url_c="";var hupso_title_c="O que é Arduino: Tudo o que você precisa saber";</script><script type="text/javascript" src="https://static.hupso.com/share/js/counters.js"></script><div id="hupso_counters_0" class="hupso_c"><div id="counters_hupso_counters_0" style="display: inline-block;"><div style="float:left; margin-left:10px; width:80px;" class="hupso_twitter"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.5f60791584f95f2ec483faec8b16a58b.pt.html#dnt=false&amp;id=twitter-widget-0&amp;lang=pt&amp;original_referer=https%3A%2F%2Fblog.hostgator.com.br%2Fo-que-e-arduino%2F&amp;size=m&amp;text=O%20que%20%C3%A9%20Arduino%3A%20Tudo%20o%20que%20voc%C3%AA%20precisa%20saber&amp;time=1500093263128&amp;type=share&amp;url=https%3A%2F%2Fblog.hostgator.com.br%2Fo-que-e-arduino%2F&amp;via=hostgatorbrasil" style="position: static; visibility: visible; width: 71px; height: 20px;" data-url="https://blog.hostgator.com.br/o-que-e-arduino/"></iframe></div><div style="float:left; margin-left:10px; margin-right:15px;" class="hupso_facebook"><div class="fb-like fb_iframe_widget" data-href="https://blog.hostgator.com.br/o-que-e-arduino/" data-send="false" data-layout="button_count" data-width="180" data-show-faces="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=125807437501078&amp;container_width=0&amp;href=https%3A%2F%2Fblog.hostgator.com.br%2Fo-que-e-arduino%2F&amp;layout=button_count&amp;locale=pt_BR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=180"><span style="vertical-align: bottom; width: 69px; height: 20px;"><iframe name="f235a63f6abbc7c" width="180px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.3/plugins/like.php?app_id=125807437501078&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FXBwzv5Yrm_1.js%3Fversion%3D42%23cb%3Df2798ee6d7d0b6c%26domain%3Dblog.hostgator.com.br%26origin%3Dhttps%253A%252F%252Fblog.hostgator.com.br%252Ffddeb6d9de7a44%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fblog.hostgator.com.br%2Fo-que-e-arduino%2F&amp;layout=button_count&amp;locale=pt_BR&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=180" style="border: none; visibility: visible; width: 69px; height: 20px;" class=""></iframe></span></div><div id="fb-root"></div></div><div style="float:left; margin-left:10px; width:80px;" class="hupso_google"><div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 90px; height: 20px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 90px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 20px;" tabindex="0" vspace="0" width="100%" id="I0_1500093262528" name="I0_1500093262528" src="https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;hl=pt&amp;origin=https%3A%2F%2Fblog.hostgator.com.br&amp;url=https%3A%2F%2Fblog.hostgator.com.br%2Fo-que-e-arduino%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.YD0UPHhK4eo.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNl4TxxWoMd1KOcpvODkaAvEmaRAQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1500093262528&amp;parent=https%3A%2F%2Fblog.hostgator.com.br&amp;pfname=&amp;rpctoken=89985456" data-gapiattached="true" title="+1"></iframe></div></div><div style="float:left; margin-left:10px;" class="hupso_linkedin"></div><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type="text/javascript">(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/pt_BR/sdk.js#version=v2.3&xfbml=1&status=0"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); </script><span class="IN-widget" style="line-height: 1; vertical-align: baseline; display: inline-block; text-align: center;"><span style="padding: 0px !important; margin: 0px !important; text-indent: 0px !important; display: inline-block !important; vertical-align: baseline !important; font-size: 1px !important;"><span id="li_ui_li_gen_1500093262622_0"><a id="li_ui_li_gen_1500093262622_0-link" href="javascript:void(0);"><span id="li_ui_li_gen_1500093262622_0-logo">in</span><span id="li_ui_li_gen_1500093262622_0-title"><span id="li_ui_li_gen_1500093262622_0-mark"></span><span id="li_ui_li_gen_1500093262622_0-title-text">Share</span></span></a></span></span><span style="padding: 0px !important; margin: 0px !important; text-indent: 0px !important; display: inline-block !important; vertical-align: baseline !important; font-size: 1px !important;"><span id="li_ui_li_gen_1500093262631_1-container" class="IN-right"><span id="li_ui_li_gen_1500093262631_1" class="IN-right"><span id="li_ui_li_gen_1500093262631_1-inner" class="IN-right"><span id="li_ui_li_gen_1500093262631_1-content" class="IN-right">4</span></span></span></span></span></span><script type="IN/Share+init" data-url="https://blog.hostgator.com.br/o-que-e-arduino/" data-counter="right">window.___gcfg = {lang: 'pt'}; (function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript" src="https://platform.linkedin.com/in.js"></script></div></div><!-- Hupso Share Buttons --></div><p>&nbsp;</p>
+<p><a href="http://blog.hostgator.com.br/o-que-e-arduino/">
+		<span class="pibfi_pinterest ">
+		<img class="alignnone wp-image-3303 size-full" src="http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png" alt="O que é Arduino - HostGator Brasil" width="600" height="300" srcset="https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png 600w, https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px">
+			<span class="xc_pin" onclick="pin_this(event, 'http://pinterest.com/pin/create/button/?url=https://blog.hostgator.com.br/o-que-e-arduino/&amp;media=http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png&amp;description=O que é Arduino: Tudo o que você precisa saber | https://blog.hostgator.com.br/o-que-e-arduino/')">
+			</span>
+		</span>
+	</a></p>
+<p>Você já pensou em embarcar na aventura da <strong>computação física, robótica e afins</strong>? Existem muitas maneiras para iniciar e uma ótima opção é com Arduinos. Há diversas configurações e versões de placas diferentes no mercado, cada uma com seus recursos e recomendações. Mas antes mesmo de pensar em começar, você precisa saber o que é um Arduino. E se perguntar para quê irá usá-lo. Para isso, vou explicar um pouco mais sobre <strong>o que é Arduino</strong>. Venha conferir.</p>
+<p><span id="more-3302"></span></p>
+<p>Primeiro é preciso ter um objetivo definido, no meu caso foi a criação do <a href="https://snappydroid.github.io/" target="_blank">Snappy Droid</a> (robô construído com o mascote da HostGator, o Snappy), assim você conseguirá escolher a melhor placa para o seu projeto. Além disso você vai poder comprar componentes relevantes para o seu projeto e aprender do mesmo jeito que se comprasse um kit avulso.</p>
+<p>Explicando de uma forma simples, pense que você tem um projeto para a criação de um drone, então um kit para montar um carro não terá placas e componentes corretos para construir seu drone, concorda? Mas antes, <strong>vamos começar do básico</strong>.</p>
+<h2>O que é Arduino?</h2>
+<p>O Arduino é uma <strong>plataforma de prototipagem</strong> <em>open-source</em>, seu software multiplataforma é flexível e fácil de usar. Ele é destinado para pessoas interessadas em criar objetos ou ambientes interativos, com o Arduino você pode interagir com luzes, motores entre outros objetos eletrônicos.</p>
+<h2>O Hardware</h2>
+<p><strong>A placa de um Arduino consiste em um microcontrolador</strong> (que é um microcomputador de um único circuito, ele processa o código desenvolvido pelo desenvolvedor), com componentes complementares para facilitar a programação e incorporação para outros circuitos.</p>
+<p>A versão mais popular e mais vendida de toda a linha é o Arduino UNO, além de servir como base para outros modelos, como o Arduino MEGA 2560 por exemplo. O Arduino Mega 2560 é placa que eu mais utilizo (incluindo o <a href="https://github.com/SnappyDroid/SnappyDroid_V1" target="_blank">projeto Snappy Droid</a>) e é uma placa que possui algumas características interessantes que podem lhe auxiliar em seu aprendizado, ela se torna bem atrativa principalmente para projetos mais elaborados e que necessitam de mais memória.</p>
+<p>O Arduino Mega 2560 possui 54 pinos de entradas e saídas digitais onde 15 destes podem ser utilizados como saídas PWM. Possui 16 entradas analógicas, 4 portas de comunicação serial.</p>
+<p>Além da quantidade de pinos, o Arduino Mega 2560 conta com maior quantidade de memória que versão mais popular e mais vendida (Arduino UNO) – sendo uma ótima opção para projetos que necessitem de muitos pinos de entradas e saídas, além de memória de programa com maior capacidade ideal para quem pretende utilizar uma telinha touchscreen, por exemplo.</p>
+<h2>O Software</h2>
+<p>A<strong> IDE Arduino</strong> é uma ferramenta de desenvolvimento multiplataforma escrita em Java com uma <strong>interface gráfica simples de usar</strong>, mas também possui uma flexibilidade para os usuários mais experientes. É um programa que reúne características e ferramentas para <strong>agilizar o processo de desenvolvimento de software</strong>.</p>
+<p>A IDE Arduino é um <strong>compilador de linguagens de programação</strong> GCC derivada dos projetos Processing e Wiring, por isso possui a capacidade de programar em C e C++.</p>
+<h2>O Projeto SnappyDroid</h2>
+<p>O robô que construí com Arduino contou com a colaboração da HostGator Brasil. Para o projeto utilizei uma pelúcia do mascote da empresa – o Snappy, que apresentei pela primeira vez na Campus Party 2016.</p>
+<p>Após muitas adaptações e colaborações através do <a href="https://github.com/SnappyDroid/SnappyDroid_V1" target="_blank">GitHub, </a>vou participar do concurso de robôs na Campus Party 2017. Venha conhecer mais sobre o <a href="http://blog.hostgator.com.br/projeto-snappydroid-na-campus-party-2016/" target="_blank">Projeto SnappyDroid</a> no post do blog ou me procure no evento. <img draggable="false" class="emoji" alt="😉" src="https://s.w.org/images/core/emoji/2.2.1/svg/1f609.svg"></p>
+<p>Última dica: Antes de iniciar um projeto com Arduino, pesquise as limitações de cada placa e se ela realmente vai atender todas as sua necessidades no decorrer do projeto. Um lugar muito bom para pesquisar e saber tudo o que é Arduino é o <a href="https://forum.arduino.cc/" target="_blank">fórum oficial</a> (em inglês).</p>
+
+						
+					</div><!-- .entry-content -->
+
+					
+
+
+
+
+
+					<div class="entry-utility blogfooter">
+
+					<span class="cat-links">
+
+						<h4 class="entry-utility-prep entry-utility-prep-cat-links">Postado em:</h4> <a href="https://blog.hostgator.com.br/desenvolvimento/" rel="category tag">Desenvolvimento</a>
+					</span>
+
+
+
+					</div><!-- .entry-utility -->
+
+				</div>
+
