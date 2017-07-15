@@ -6,7 +6,7 @@ category: tech
 tags: [ 'tutorial' ]
 ---
  
- O que é Arduino - HostGator Brasil
+O que é Arduino - HostGator Brasil
 Você já pensou em embarcar na aventura da computação física, robótica e afins? Existem muitas maneiras para iniciar e uma ótima opção é com Arduinos. Há diversas configurações e versões de placas diferentes no mercado, cada uma com seus recursos e recomendações. Mas antes mesmo de pensar em começar, você precisa saber o que é um Arduino. E se perguntar para quê irá usá-lo. Para isso, vou explicar um pouco mais sobre o que é Arduino. Venha conferir.
 Primeiro é preciso ter um objetivo definido, no meu caso foi a criação do Snappy Droid (robô construído com o mascote da HostGator, o Snappy), assim você conseguirá escolher a melhor placa para o seu projeto. Além disso você vai poder comprar componentes relevantes para o seu projeto e aprender do mesmo jeito que se comprasse um kit avulso.
 Explicando de uma forma simples, pense que você tem um projeto para a criação de um drone, então um kit para montar um carro não terá placas e componentes corretos para construir seu drone, concorda? Mas antes, vamos começar do básico.
@@ -35,4 +35,4 @@ Após muitas adaptações e colaborações através do GitHub, vou participar do
 Última dica: Antes de iniciar um projeto com Arduino, pesquise as limitações de cada placa e se ela realmente vai atender todas as sua necessidades no decorrer do projeto. Um lugar muito bom para pesquisar e saber tudo o que é Arduino é o fórum oficial (em inglês).
 
 * Escrito por [Sinésio Bittencourt](https://sinesio.com.br)  </br >
-* Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/)
+* Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/) 
