@@ -1,19 +1,19 @@
 ---
 layout: post
 section-type: post
-title: O que rolou na Campus Party 2016?
+title: O que é Arduino: Tudo o que você precisa saber
 category: tech
 tags: [ 'tutorial' ]
 ---
 
 
 <p><a href="http://blog.hostgator.com.br/o-que-e-arduino/">
-		<span class="pibfi_pinterest ">
-		<img class="alignnone wp-image-3303 size-full" src="http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png" alt="O que é Arduino - HostGator Brasil" width="600" height="300" srcset="https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png 600w, https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px">
-			<span class="xc_pin" onclick="pin_this(event, 'http://pinterest.com/pin/create/button/?url=https://blog.hostgator.com.br/o-que-e-arduino/&amp;media=http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png&amp;description=O que é Arduino: Tudo o que você precisa saber | https://blog.hostgator.com.br/o-que-e-arduino/')">
-			</span>
-		</span>
-	</a></p>
+    <span class="pibfi_pinterest ">
+    <img class="alignnone wp-image-3303 size-full" src="http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png" alt="O que é Arduino - HostGator Brasil" width="600" height="300" srcset="https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png 600w, https://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px">
+      <span class="xc_pin" onclick="pin_this(event, 'http://pinterest.com/pin/create/button/?url=https://blog.hostgator.com.br/o-que-e-arduino/&amp;media=http://blog.hostgator.com.br/wp-content/uploads/2017/01/Tudo-que-você-precisa-saber-sobre-Arduino-v01-Blog.png&amp;description=O que é Arduino: Tudo o que você precisa saber | https://blog.hostgator.com.br/o-que-e-arduino/')">
+      </span>
+    </span>
+  </a></p>
 <p>Você já pensou em embarcar na aventura da <strong>computação física, robótica e afins</strong>? Existem muitas maneiras para iniciar e uma ótima opção é com Arduinos. Há diversas configurações e versões de placas diferentes no mercado, cada uma com seus recursos e recomendações. Mas antes mesmo de pensar em começar, você precisa saber o que é um Arduino. E se perguntar para quê irá usá-lo. Para isso, vou explicar um pouco mais sobre <strong>o que é Arduino</strong>. Venha conferir.</p>
 <p><span id="more-3302"></span></p>
 <p>Primeiro é preciso ter um objetivo definido, no meu caso foi a criação do <a href="https://snappydroid.github.io/" target="_blank">Snappy Droid</a> (robô construído com o mascote da HostGator, o Snappy), assim você conseguirá escolher a melhor placa para o seu projeto. Além disso você vai poder comprar componentes relevantes para o seu projeto e aprender do mesmo jeito que se comprasse um kit avulso.</p>
@@ -30,7 +30,7 @@ tags: [ 'tutorial' ]
 <p>A IDE Arduino é um <strong>compilador de linguagens de programação</strong> GCC derivada dos projetos Processing e Wiring, por isso possui a capacidade de programar em C e C++.</p>
 <h2>O Projeto SnappyDroid</h2>
 <p>O robô que construí com Arduino contou com a colaboração da HostGator Brasil. Para o projeto utilizei uma pelúcia do mascote da empresa – o Snappy, que apresentei pela primeira vez na Campus Party 2016.</p>
-<p>Após muitas adaptações e colaborações através do <a href="https://github.com/SnappyDroid/SnappyDroid_V1" target="_blank">GitHub, </a>vou participar do concurso de robôs na Campus Party 2017. Venha conhecer mais sobre o <a href="http://blog.hostgator.com.br/projeto-snappydroid-na-campus-party-2016/" target="_blank">Projeto SnappyDroid</a> no post do blog ou me procure no evento. <img draggable="false" class="emoji" alt="" src="https://s.w.org/images/core/emoji/2.2.1/svg/1f609.svg"></p>
+<p>Após muitas adaptações e colaborações através do <a href="https://github.com/SnappyDroid/SnappyDroid_V1" target="_blank">GitHub, </a>vou participar do concurso de robôs na Campus Party 2017. Venha conhecer mais sobre o <a href="http://blog.hostgator.com.br/projeto-snappydroid-na-campus-party-2016/" target="_blank">Projeto SnappyDroid</a> no post do blog ou me procure no evento. </p>
 <p>Última dica: Antes de iniciar um projeto com Arduino, pesquise as limitações de cada placa e se ela realmente vai atender todas as sua necessidades no decorrer do projeto. Um lugar muito bom para pesquisar e saber tudo o que é Arduino é o <a href="https://forum.arduino.cc/" target="_blank">fórum oficial</a> (em inglês).</p>
 
-					
+          
