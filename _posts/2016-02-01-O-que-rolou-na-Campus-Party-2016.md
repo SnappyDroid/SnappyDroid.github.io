@@ -25,7 +25,3 @@ Nos 8 palcos da CPBR9, aconteceram palestras para as mais variadas áreas da tec
 Numa análise geral, a Campus Party 2016 foi excelente, com ótimas palestras e cursos, numa infraestrutura fantástica, tendo apenas 2 pontos negativos: o resfriamento ineficiente, pois o calor atrapalhou um bocado dentro do pavilhão e os altos preços dos alimentos e bebidas.”
  
 Vale lembrar que nós cobrimos o evento através do nosso perfil no Instagram e no Twitter, confere lá 😉 E aí, conta para gente: o que achou da Campus esse ano?
-
-Visit [http://127.0.0.1:4000](http://127.0.0.1:4000) and you are ready to start hacking around your { Personal } website!
-
-<small>Many thanks to <a href="https://github.com/joariasl" target="\_blank">@joariasl</a> for the language support! </small>
