@@ -5,7 +5,6 @@ title: O que é Arduino: Tudo o que você precisa saber
 category: tech
 tags: [ 'tutorial' ]
 ---
-
  
  O que é Arduino - HostGator Brasil
 Você já pensou em embarcar na aventura da computação física, robótica e afins? Existem muitas maneiras para iniciar e uma ótima opção é com Arduinos. Há diversas configurações e versões de placas diferentes no mercado, cada uma com seus recursos e recomendações. Mas antes mesmo de pensar em começar, você precisa saber o que é um Arduino. E se perguntar para quê irá usá-lo. Para isso, vou explicar um pouco mais sobre o que é Arduino. Venha conferir.
