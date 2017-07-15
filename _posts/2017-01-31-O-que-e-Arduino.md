@@ -1,38 +1,27 @@
 ---
 layout: post
 section-type: post
-title: O que é Arduino: Tudo o que você precisa saber
+title: O que rolou na Campus Party 2016?
 category: tech
 tags: [ 'tutorial' ]
 ---
+
+Campus Party 2016 - HostGator Brasil
+Mais uma edição da Campus Party chegou ao fim. O evento possibilita uma experiência tecnológica do mundo nas áreas de: Inovação, Criatividade, Ciência, Empreendedorismo e Entretenimento Digital. Tudo começou em 2008, com 3300 campuseiros (como são chamados os participantes) e contou com 8000 pessoas, em 2016.
+Este ano, algumas atrações se destacaram, como os talks “Make something you love”, sobre design, multimídia e criatividade, com Laura Lessa; “O mundo real de volta ao relacionamento online. Happn”,  sobre relacionamentos e plataformas virtuais, com Marie Cosnard; “Cartoon Network e o universo digital”, sobre marketing e redes sociais, com Artur Tilieri e o talk sobre empreendedorismo com Ricardo Fornari.
  
-O que é Arduino - HostGator Brasil
-Você já pensou em embarcar na aventura da computação física, robótica e afins? Existem muitas maneiras para iniciar e uma ótima opção é com Arduinos. Há diversas configurações e versões de placas diferentes no mercado, cada uma com seus recursos e recomendações. Mas antes mesmo de pensar em começar, você precisa saber o que é um Arduino. E se perguntar para quê irá usá-lo. Para isso, vou explicar um pouco mais sobre o que é Arduino. Venha conferir.
-Primeiro é preciso ter um objetivo definido, no meu caso foi a criação do Snappy Droid (robô construído com o mascote da HostGator, o Snappy), assim você conseguirá escolher a melhor placa para o seu projeto. Além disso você vai poder comprar componentes relevantes para o seu projeto e aprender do mesmo jeito que se comprasse um kit avulso.
-Explicando de uma forma simples, pense que você tem um projeto para a criação de um drone, então um kit para montar um carro não terá placas e componentes corretos para construir seu drone, concorda? Mas antes, vamos começar do básico.
-O que é Arduino?
+Veja também: Projeto SnappyDroid na Campus Party 2016
+ 
+Ao todo, foram mais de 400 atrações, entre workshops, desafios e conferências. Sem contar todos os debates e a troca de experiência que é feita nos cinco dias de imersão neste universo, convivendo com os aficionados por tecnologia.
+Confira o depoimento do nosso colaborador, Sinesio Bittencourt, que vivenciou tudo isso de perto, viajando, acampando, participando das palestras e minicursos:
+“A maior e mais diversificada feira de tecnologia e internet do Brasil, foi realizada entre os dias 26 a 30 deste mês no Pavilhão de Exposições do Anhembi, São Paulo.
+SnappyDroid e Sinesio Bittencourt na Campus Party 2016 - HostGator Brasil
+Fonte: Campus Party Brasil / Flickr
+Os campuseiros esgotaram os ingressos rapidamente e acamparam em peso por lá. Os maiores destaques deste ano foram na área da robótica e das impressoras a laser e 3D, seguindo o tema do evento deste ano, Feel the Future.
+Nos 8 palcos da CPBR9, aconteceram palestras para as mais variadas áreas da tecnologia, dando destaque para Inovação e Ciências, com seus cursos de robótica e segurança de redes.
+Numa análise geral, a Campus Party 2016 foi excelente, com ótimas palestras e cursos, numa infraestrutura fantástica, tendo apenas 2 pontos negativos: o resfriamento ineficiente, pois o calor atrapalhou um bocado dentro do pavilhão e os altos preços dos alimentos e bebidas.”
+ 
+Vale lembrar que nós cobrimos o evento através do nosso perfil no Instagram e no Twitter, confere lá 😉 E aí, conta para gente: o que achou da Campus esse ano?
 
-O Arduino é uma plataforma de prototipagem open-source, seu software multiplataforma é flexível e fácil de usar. 
-
-Ele é destinado para pessoas interessadas em criar objetos ou ambientes interativos, com o Arduino você pode interagir com luzes, motores entre outros objetos eletrônicos.
-
-O Hardware
-
-A placa de um Arduino consiste em um microcontrolador (que é um microcomputador de um único circuito, ele processa o código desenvolvido pelo desenvolvedor), com componentes complementares para facilitar a programação e incorporação para outros circuitos.
-A versão mais popular e mais vendida de toda a linha é o Arduino UNO, além de servir como base para outros modelos, como o Arduino MEGA 2560 por exemplo. O Arduino Mega 2560 é placa que eu mais utilizo (incluindo o projeto Snappy Droid) e é uma placa que possui algumas características interessantes que podem lhe auxiliar em seu aprendizado, ela se torna bem atrativa principalmente para projetos mais elaborados e que necessitam de mais memória.
-O Arduino Mega 2560 possui 54 pinos de entradas e saídas digitais onde 15 destes podem ser utilizados como saídas PWM. Possui 16 entradas analógicas, 4 portas de comunicação serial.
-Além da quantidade de pinos, o Arduino Mega 2560 conta com maior quantidade de memória que versão mais popular e mais vendida (Arduino UNO) – sendo uma ótima opção para projetos que necessitem de muitos pinos de entradas e saídas, além de memória de programa com maior capacidade ideal para quem pretende utilizar uma telinha touchscreen, por exemplo.
-
-O Software
-
-A IDE Arduino é uma ferramenta de desenvolvimento multiplataforma escrita em Java com uma interface gráfica simples de usar, mas também possui uma flexibilidade para os usuários mais experientes. É um programa que reúne características e ferramentas para agilizar o processo de desenvolvimento de software.
-A IDE Arduino é um compilador de linguagens de programação GCC derivada dos projetos Processing e Wiring, por isso possui a capacidade de programar em C e C++.
-
-O Projeto SnappyDroid
-
-O robô que construí com Arduino contou com a colaboração da HostGator Brasil. Para o projeto utilizei uma pelúcia do mascote da empresa – o Snappy, que apresentei pela primeira vez na Campus Party 2016.
-Após muitas adaptações e colaborações através do GitHub, vou participar do concurso de robôs na Campus Party 2017. Venha conhecer mais sobre o Projeto SnappyDroid no post do blog ou me procure no evento. 😉
-Última dica: Antes de iniciar um projeto com Arduino, pesquise as limitações de cada placa e se ela realmente vai atender todas as sua necessidades no decorrer do projeto. Um lugar muito bom para pesquisar e saber tudo o que é Arduino é o fórum oficial (em inglês).
-
-* Escrito por [Sinésio Bittencourt](https://sinesio.com.br)  </br >
-* Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/) 
+* Escrito por Thayse Stein * </br > 
+Visite [HostGator.com.br/blog](https://blog.hostgator.com.br/o-que-rolou-na-campus-party-2016/)
