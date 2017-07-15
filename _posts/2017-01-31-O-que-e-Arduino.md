@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: O que é Arduino: Tudo o que você precisa saber.
+title: O que é Arduino?
 category: tech
 tags: [ 'tutorial' ]
 ---
