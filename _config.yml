@@ -16,7 +16,7 @@ baseurl: https://snappydroid.github.io
 
 # Google tracking id to track your visitors
 
-google-tracking-id: ""
+google-tracking-id: "UA-102624626-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "pt-br"
-author: "Sinesio Bittencourt - "
-title: "{ SnappyDroid }"
-description: "SnappyDroid é um projeto OpenSouce feitom com Arduino"
-keywords: "SnappyDroid, Snappy, Droid, HostGator, HostGator Brasil"
+author: "Sinesio Bittencourt - contato@sinesio.com.br "
+title: "{ SnappyDroid - Sinesio Bittencourt }"
+description: "SnappyDroid é um projeto OpenSouce feito com Arduino"
+keywords: "SnappyDroid, Snappy, Droid, HostGator, HostGator Brasil, endurance, Host, projeto, OpenSouce, Arduino"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
